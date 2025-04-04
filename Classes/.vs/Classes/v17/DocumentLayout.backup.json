@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\Classes\\Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826EC1CB-59AA-48A7-86BF-1434B0FA8CF8}|Classes.vcxproj|C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\Classes\\Classes\\Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{826EC1CB-59AA-48A7-86BF-1434B0FA8CF8}|Classes.vcxproj|solutionrelative:Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\Classes\\Classes\\Classes.cpp",
+              "RelativeDocumentMoniker": "Classes.cpp",
+              "ToolTip": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\Classes\\Classes\\Classes.cpp",
+              "RelativeToolTip": "Classes.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T00:20:31.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
